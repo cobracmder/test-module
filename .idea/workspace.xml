@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54b088bd-b1cb-48ec-8f33-b7211243d04d" name="Default" comment="Updated my class">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="54b088bd-b1cb-48ec-8f33-b7211243d04d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="$PROJECT_DIR$/.gitmodules" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
     </list>
     <list id="7b5b08ef-fd4b-4c0b-b04f-147363b2b181" name="Failed commit: Default" comment="Updated my class">
@@ -402,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1476738435478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Minor updates">
+      <created>1476739168145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476739168145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -449,6 +456,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Android Studio Crap" />
+    <MESSAGE value="Minor updates" />
     <MESSAGE value="Updated my class" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated my class" />
   </component>
